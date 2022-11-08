@@ -1,0 +1,3 @@
+This folder contains lab work as a whole.
+
+The other folders contain the same code but divided based on category. 
