@@ -3,7 +3,7 @@
 ---
 ## Categories
 
-1. [Block Ciphers](https://github.com/jcgarcii/Cryptography-Algorithms/tree/main?tab=readme-ov-file#block-ciphers)
+[Block Ciphers](https://github.com/jcgarcii/Cryptography-Algorithms/tree/main?tab=readme-ov-file#block-ciphers)
    - Algorithms
      - Rijndael (AES (Advanced Encryption Standard))
      - Feistel (DES (Data Encryption Standard))
@@ -11,7 +11,7 @@
      - AES: Side-channel attacks
      - DES: Brute-force attacks, Differential cryptanalysis
 
-2. [Stream Ciphers](https://github.com/jcgarcii/Cryptography-Algorithms/tree/main?tab=readme-ov-file#steam-ciphers)
+[Stream Ciphers](https://github.com/jcgarcii/Cryptography-Algorithms/tree/main?tab=readme-ov-file#stream-ciphers)
    - Algorithms
      - RC4
      - Salsa20
@@ -21,7 +21,7 @@
      - Salsa20: Cryptanalysis attacks
      - ChaCha20: Differential attacks
 
-3. [Substitution Ciphers](https://github.com/jcgarcii/Cryptography-Algorithms/tree/main?tab=readme-ov-file#substitution-ciphers)
+[Substitution Ciphers](https://github.com/jcgarcii/Cryptography-Algorithms/tree/main?tab=readme-ov-file#substitution-ciphers)
    - Algorithms
      - Caesar Cipher
      - Monoalphabetic Cipher
@@ -31,7 +31,7 @@
      - Monoalphabetic Cipher: Frequency analysis
      - Playfair Cipher: Digraph frequency analysis
 
-4. [Vigenere Ciphers](https://github.com/jcgarcii/Cryptography-Algorithms/tree/main?tab=readme-ov-file#vigenere-ciphers)
+[Vigenere Ciphers](https://github.com/jcgarcii/Cryptography-Algorithms/tree/main?tab=readme-ov-file#vigenere-ciphers)
    - Algorithms
      - Vigenere Cipher
    - Attacks
