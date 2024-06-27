@@ -2,17 +2,16 @@
 ### This repository contains a collection of programs I built throughout the duration of my Cyber Security Engineering courses at Iowa State University, contains various implementations of encryption and decryption algorithms - including several exploits for several encryption algorithms, exposing weaknesses in implementation, design, and theoretical collisions. 
 ---
 ## Categories
+
 1. **Block Ciphers**
    - Algorithms
-     - AES (Advanced Encryption Standard)
-     - DES (Data Encryption Standard)
+     - Rijndael (AES (Advanced Encryption Standard))
+     - Feistel (DES (Data Encryption Standard))
    - Attacks
      - AES: Side-channel attacks
      - DES: Brute-force attacks, Differential cryptanalysis
-     - Blowfish: Weak key attacks
 
 2. **Stream Ciphers**
-   - Overview
    - Algorithms
      - RC4
      - Salsa20
@@ -21,9 +20,8 @@
      - RC4: Key scheduling attacks, Biases in the keystream
      - Salsa20: Cryptanalysis attacks
      - ChaCha20: Differential attacks
-       
+
 3. **Substitution Ciphers**
-   - Overview
    - Algorithms
      - Caesar Cipher
      - Monoalphabetic Cipher
@@ -34,7 +32,6 @@
      - Playfair Cipher: Digraph frequency analysis
 
 4. **Vigenere Ciphers**
-   - Overview
    - Algorithms
      - Vigenere Cipher
    - Attacks
@@ -46,8 +43,8 @@
 Block ciphers are a type of symmetric-key cipher that encrypts data in fixed-size blocks. Common examples include AES, DES, and Blowfish.
 
 ### Algorithms
-- **AES (Advanced Encryption Standard)**
-- **DES (Data Encryption Standard)**
+- **Rijndael / AES (Advanced Encryption Standard)**
+- **Feistel / DES (Data Encryption Standard)**
 - **Blowfish**
 
 ### Attacks
